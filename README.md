@@ -1,5 +1,7 @@
 # SIH PMSSS Scholarship
 
+![Image Alt Text](pmss.png)
+
 ## Overview
 
 **SIH PMSSS Scholarship** is an application designed to manage the scholarship process for students under the *PMSSS* (Prime Minister's Special Scholarship Scheme).
