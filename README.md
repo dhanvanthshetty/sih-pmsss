@@ -32,3 +32,19 @@ This project is a part of the **Smart India Hackathon 2024**, developed as an en
    ```bash
    git clone https://github.com/dhanvanthshetty/sih-pmsss.git
    cd sih-pmsss
+
+
+
+
+### Key Updates:
+
+- The **Backend Setup** section now includes instructions to run the backend using `npm run dev`.
+- The **Frontend Setup** section now includes instructions to start the frontend using `npm start`.
+
+Once you've added this content to the `README.md` file, remember to commit the changes and push them to your repository:
+
+```bash
+git add README.md
+git commit -m "Update README with instructions on running the project"
+git push origin main
+
