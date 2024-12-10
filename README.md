@@ -1,6 +1,9 @@
-# SIH PMSSS Scholarship
+# SIH-24 PMSSS Scholarship
 
-![Image Alt Text](pmss.png)
+
+![pmsss scholarship frontend screenshot](pmsss.png)
+
+
 
 ## Overview
 
