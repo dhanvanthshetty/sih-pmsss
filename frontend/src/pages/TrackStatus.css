@@ -1,0 +1,54 @@
+/* src/App.css */
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.status-container-vertical {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.status {
+  width: 150px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.status.green {
+  border-color: green;
+}
+
+.timestamp {
+  font-size: 12px;
+  margin-top: 10px;
+  color: #666;
+}
+
+.line {
+  width: 5px;
+  height: 40px;
+  background-color: #ccc;
+  margin: 0 10px;
+}
+
+.line.green {
+  background-color: green;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

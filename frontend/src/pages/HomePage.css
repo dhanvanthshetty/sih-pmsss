@@ -1,0 +1,99 @@
+/* Unique Prefix Styles */
+.homepage-container {
+  background-image: url('https://i0.wp.com/opportunitycell.com/wp-content/uploads/2021/02/Prime-Ministers-Scholarship-Scheme-PMSS-PM-Scholarships.jpg?fit=1800%2C1071&ssl=1');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.welcome-portal-container {
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for contrast */
+  padding: 40px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.welcome-portal-container h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #ffeb3b; /* Bright yellow */
+}
+
+.home-options-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-options-container .btn {
+  display: inline-block;
+  width: auto; /* Width adjusted to content */
+  max-width: 250px; /* Limit the maximum width */
+  padding: 10px 20px; /* Adjust padding */
+  font-size: 1rem; /* Font size adjusted for better fit */
+  text-decoration: none;
+  color: #fff;
+  background-color: #2196f3; /* Bright blue */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow effect */
+  transition: background-color 0.3s, transform 0.3s;
+  text-align: center; /* Center text */
+}
+
+.home-options-container .btn:hover {
+  background-color: #0d47a1; /* Darker blue */
+  transform: scale(1.03); /* Slight zoom effect */
+}
+
+.bureau-login-options-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center; /* Center buttons horizontally */
+}
+.bureau-login-options-container .btn {
+  margin: 0 15px; /* Add horizontal spacing between buttons */
+}
+
+.flowchart-container-custom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+.flowchart-box-custom {
+  background: rgba(101, 89, 89, 0.8); /* White background with slight transparency */
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  flex: 1;
+  min-width: 200px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.flowchart-box-custom h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #f4f6f7; /* Bright blue */
+}
+
+.flowchart-box-custom p {
+  font-size: 1rem;
+  color: #eee5e5; /* Dark text for readability */
+}
+
+.flowchart-arrow-custom {
+  font-size: 2rem;
+  color: #ff5722; /* Bright orange */
+  margin: 0 15px;
+}
